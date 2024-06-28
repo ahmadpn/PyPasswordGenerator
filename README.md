@@ -18,7 +18,7 @@ This is a simple Python script that generates a secure password based on user-de
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/PyPasswordGenerator.git
+    git clone https://github.com/apiran/PyPasswordGenerator.git
     cd PyPasswordGenerator
     ```
 
